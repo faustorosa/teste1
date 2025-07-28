@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+numpy
+altair
+scikit-learn==1.5.2
+Pillow
